@@ -1,4 +1,4 @@
-# 
+# liquidity sniper bot smart Bot - pump-detection and buy-pressure-analysis is the best liquidity sniper bot, featuring pump-detection and buy-pressure-analysis. Fast, smart, and
 
 
 
